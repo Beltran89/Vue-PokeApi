@@ -1,4 +1,4 @@
-# 04-pokemon
+# Vue Pokemon y Api
 
 ## Visualizar Proyecto y Divertirse Jugando
 
